@@ -253,6 +253,7 @@ To support security as code, sensitive credentials and secrets need to be manage
 * [Sops](https://github.com/mozilla/sops)
 * [Transcrypt](https://github.com/elasticdog/transcrypt)
 * [Vault](https://www.hashicorp.com/blog/vault.html)
+* [Kamus](https://github.com/Soluto/kamus) - GitOps solution for secret managment on Kubernetes platform.
 
 
 ## Red Team
